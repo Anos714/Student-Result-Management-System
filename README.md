@@ -72,4 +72,4 @@ Enter marks in Math: 85
 
 ## 📩 Feedback or Suggestions?
 
-Feel free to open an issue or contact me via [LinkedIn](#) if you'd like to collaborate or share feedback.
+Feel free to open an issue or contact me via [LinkedIn](www.linkedin.com/in/rahul-sain-2190a2315) if you'd like to collaborate or share feedback.
